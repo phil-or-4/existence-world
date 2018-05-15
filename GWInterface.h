@@ -1,12 +1,5 @@
-
 #include <vector>
 #include <iostream>
-
-/*
- */
-
-
-
 class GWInterface {
 
   public:

@@ -1,6 +1,13 @@
+/*
+Author: Phillip Sopt
+Description:
+This is the set of test cases I made for the GridWorld.h. It should cover all the cases for every function.
+Note that these set of test cases were written using Visual Studios testing framework. So if you want to use them,
+either convert them to regular old assert commands in C++ or import it into Visual Studio.
+*/
 #include "stdafx.h"
 #include "CppUnitTest.h"
-#include "../251Prog2/GridWorld.h"
+#include "GridWorld.h"
 #include <string>
 
 
